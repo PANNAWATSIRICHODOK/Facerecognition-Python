@@ -19,6 +19,5 @@ To run this project, you'll need to have Python installed along with the necessa
 pip install opencv-python
 pip install numpy
 pip install pandas
+pip install dlib
 pip install face_recognition
-pip install tkinter
-
